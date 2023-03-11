@@ -1,3 +1,3 @@
 # DEMO_FOR_ME
 
-hello how are u.
+hello how are you
